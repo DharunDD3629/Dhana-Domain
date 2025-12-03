@@ -14,7 +14,7 @@ function App() {
       <Dhana name="Deeps" role="Java Developer" img={img2} rate="7" />
       <Dhana name="Deepak" role="Python Developer" img={img3}/>
 
-       <Greeting name="Dharun" />
+       <Greeting name="Dharun Dhana" />
 
     </>
   )
